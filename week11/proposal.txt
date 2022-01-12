@@ -1,0 +1,31 @@
+Significant Program Proposal
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+- password_generator.py
+
+2. What real world problem will your program address or help to solve?
+- Hopefully it will help people create good passwords and help them remember the passwords since they will be entering words to create the password. 
+
+3. What will you learn from developing this program?
+- I hope to learn a little more about tkinter and the different aspects of it and how to make a good GUI. On top of that, I also hope to learn more about using the random module. It seems like a password generator can show how well this method and the program can interact to make a good password for someone. 
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+- I will be using tkinter and random modules as well as pytest to test my functions
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+- From past lessons, it seems like you are better off when you seperate your functions into single tasks. So that would be my goal for sure. We could have the inputs and generator be seperate. Plus the tkinter build as well. 
+
+6. Will you write test functions to test many of your program functions?
+- Yes. Im assuming i could write tests to where you can test and make sure the inputs take text from user? I will have to research maybe how to test a random module as well. 
+
